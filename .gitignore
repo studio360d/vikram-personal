@@ -1,0 +1,12 @@
+node_modules
+newrelic_agent.log
+public
+.tmp
+.idea
+client/bower_components
+dist
+/server/config/local.env.js
+npm-debug.log
+server/api/attachmentdownloads/
+temp-uploads/
+
